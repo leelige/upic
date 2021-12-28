@@ -1,2 +1,2 @@
 # upic
-upic_img
+upic_img & picgo_img
